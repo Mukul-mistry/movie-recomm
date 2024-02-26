@@ -4,7 +4,7 @@ This project implements a movie recommendation system using collaborative filter
 
 ## Try it Online!
 
-Click [here](https://movie-recomm-xxjfbtc8decuo8jkvfnxpm.streamlit.app/) to try the movie recommendation system online!
+Click [here](https://movie-recomm-qkykjlka6capvappfnu9rme.streamlit.app/) to try the movie recommendation system online!
 
 ## Overview
 
