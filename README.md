@@ -23,7 +23,7 @@ To run this application locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-recomm.git
+   git clone https://github.com/mukul-mistry/movie-recomm.git
 
 pip install -r requirements.txt
 
