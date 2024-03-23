@@ -18,8 +18,11 @@ jobs:
       with:
         python-version: '3.8'
         
-    - name: Install dependencies
-      run: pip install -r requirements.txt
+   - name: Install dependencies
+  run: |
+    pip install -r requirements.txt
+    export PATH="$PATH:/c/Users/dmist/AppData/Local/Programs/Python/Python311/Scripts/streamlit"
+
       
     - name: Build
       run: echo "No build step required for Python app"
